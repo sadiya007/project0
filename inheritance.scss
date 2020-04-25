@@ -1,0 +1,23 @@
+%message {
+    font-family: Trebuchet MS, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 20px;
+}
+
+.Hint1 {
+    @extend %message;
+    background-color: green;
+}
+
+.Hint2 {
+    @extend %message;
+    background-color: orange;
+}
+
+.Hint3 {
+    @extend %message;
+    background-color: red;
+}
