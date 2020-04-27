@@ -1,4 +1,4 @@
 # Project 0
 This is the Project0 Submission with all the requirements met.
 Well hopefully!!!
-Web Programming with Python and JavaScript
+This is the Project0 Submission with all the requirements met. Well hopefully!!! The website contains four different navigational .html pages. Index.html is the main page, from there thru click me buttons we can navigate to 3 different pages. There is a link to 'Homepage' thru all of these pages. The Index.html page contains an unrdered list and a table. Geometryp, Numberp and imagep pages contain one image each. The sylesheet file is responsible for these CSS properties: #top, #middle, #bottom, #font, #border (id selectors) and .name, .foo class selector. The mobile responsive @media query has been defined in stylesheet file and given a reference to at all html pages. All of the html pages have Bootstrap 4 reference. The table on index.html has been styled using Bootstrap's grid model. SCSS variable, nesting and inheritance have been included. Please find a YT video recording at https://youtu.be/7sfDqPb-H1Y. Thanks and regards
